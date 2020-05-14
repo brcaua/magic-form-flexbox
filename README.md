@@ -1,4 +1,3 @@
-<p align="center"><img src="https://github.com/brcaua/my-blog/blob/master/img/loho.jpg"></p>
 <h1 align="center"> Sign with FlexBox</h1>
 <p align="center">Responsive form with FlexBox</p>
 
